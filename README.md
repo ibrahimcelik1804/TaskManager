@@ -23,4 +23,4 @@ Bu proje, **React Native** kullanılarak geliştirilmiş bir **TaskManager** uyg
 
 ## 🎨 Proje Görseli
 
-![Proje Görseli](https://github.com/ibrahimcelik1804/TaskManager/blob/main/src/assets/gorsel%C3%8F.gif)
+![Proje Görseli](https://github.com/ibrahimcelik1804/TaskManager/blob/main/src/assets/gorsel.gif?raw=true)
